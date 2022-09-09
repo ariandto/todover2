@@ -15,7 +15,7 @@ class App extends Tasks {
         <form
         onSubmit={this.handleSubmit}
         className="flex"
-        style={{margin: "15px"}}
+        style={{margin: "18px"}}
         >
           <TextField
           variant="outlined"
